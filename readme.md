@@ -12,7 +12,13 @@ Programa de escritorio para Windows (Python + Tkinter) que lee, edita y anade me
 - Copia un campo a varias imagenes en lote, sobrescribiendo los originales o creando copias `<nombre>_editado`.
 - Guarda por defecto en un archivo nuevo y avisa si hay cambios sin guardar.
 
-## Requisitos
+## Descarga
+
+**[Descargar editor_metadatos.exe](https://github.com/Serberar/editor-metadatos/releases/latest/download/editor_metadatos.exe)** (Windows, no necesita Python).
+
+Windows puede mostrar un aviso de SmartScreen porque el ejecutable no esta firmado: pulsa *Mas informacion* > *Ejecutar de todas formas*.
+
+## Requisitos (para ejecutar desde el codigo)
 
 - Python 3.10+
 - [Pillow](https://pypi.org/project/pillow/)
