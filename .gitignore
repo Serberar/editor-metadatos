@@ -1,0 +1,11 @@
+__pycache__/
+*.exe
+build/
+dist/
+*.spec
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.tif
+*.tiff
